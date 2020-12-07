@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Stefan Hofer"
+  name             : ""
   avatar           : "profile.png"
   bio              : "Postdoctoral Scientist at the University of Oslo. All things clouds and ice sheets."
   location         : "Oslo, Norway."
