@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-UK"
-title                    : "Dr. Stefan hofer"
+locale                   : "en-US"
+title                    : "Dr. Stefan Hofer"
 title_separator          : "-"
 name                     : &name "Stefan Hofer"
 description              : &description "Climate Scientist at University of Oslo"
-url                      : http://stefan-hofer.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://stefan-hofer.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "http://github.com/stefan-hofer/stefan-hofer.github.io"
+repository               : "https://github.com/stefan-hofer/stefan-hofer.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
