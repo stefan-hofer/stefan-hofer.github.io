@@ -9,15 +9,16 @@ author_profile: true
 This page contains a list of my publications, starting with my first author manuscripts. For more details, please
 visit my [Google Scholar profile](https://scholar.google.com/citations?user=HHacAS0AAAAJ&hl=en). I've tried to link 
 PDFs of the final articles where the publishing license allows. Otherwise, please feel free to contact me if your 
-institution doesn't provide with access to one of the articles below.
+institution doesn't provide access to one of the articles below.
 
 ## Peer-reviewed First Author Articles
+* [***Hofer S. et al. (2020)***](https://doi.org/10.1038/s41558-019-0507-8), ‘Greater Greenland Ice Sheet contribution to global sea level rise in CMIP6’, Nature Communications. [(***Accepted***)]
 
 * [***Hofer S. et al. (2019)***](https://doi.org/10.1038/s41558-019-0507-8), ‘Cloud microphysics and circulation anomalies control differences in future Greenland Ice Sheet melt’, Nature Climate Change,9, 523–528. [(***Open Access shareable link***)](https://rdcu.be/cbYBd)
 
 * [***Hofer S. et al. (2017)***](https://doi.org/10.1038/s41558-019-0507-8), ‘Decreasing Cloud Cover drives the recent mass loss on the Greenland Ice Sheet’, Science Advances , 3.6. (***Open Access***)
 
-Hofer, Stefan, et al. "Decreasing cloud cover drives the recent mass loss on the Greenland Ice Sheet." Science Advances 3.6 (2017): e1700584.
+
 
 ## Comments, blog posts, and other non-peer-reviewed articles
 
