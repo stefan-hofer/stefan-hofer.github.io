@@ -3,6 +3,7 @@ permalink: /
 title: "About Me"
 excerpt: "About me"
 author_profile: true
+description: "Dr. Stefan Hofer, Postdoctoral Fellow at University of Oslo, Climate Scientist"
 redirect_from: 
   - /about/
   - /about.html
