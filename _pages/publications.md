@@ -21,6 +21,15 @@ institution doesn't provide access to one of the articles below.
 
 ## Peer-reviewed Co-Author Articles
 
+**2021 (In review/submitted):**
+
+* [***Kittel et al. (2021)***](https://doi.org/10.5194/tc-2020-291), 'Diverging future surface mass balance between the Antarctic ice shelves and grounded ice sheet', The Cryosphere Discuss. (***In review***)
+
+* [***Fettweis X. et al (2021)***](https://doi.org/10.5194/tc-2020-347), 'Brief Communication: Reduction of the future Greenland ice sheet surface melt with the help of solar geoengineering, The Cryosphere Discuss. (***In review***)
+
+* [***Le Toumelin et al (2021)***](https://doi.org/10.5194/tc-2020-329). 'Sensitivity of the surface energy budget to drifting snow as simulated by MAR in coastal Adelie Land, Antarctica', The Cryosphere Discuss. (***In review***)
+
+
 **2020:**
 * [***Fettweis X. et al. (2020)***](https://tc.copernicus.org/articles/14/3935/2020/tc-14-3935-2020.html), 'GrSMBMIP: Intercomparison of the modelled 1980–2012 surface mass balance over the Greenland Ice sheet', The Cryosphere, 14, 3935-3953. (***Open Access***)
 
@@ -29,6 +38,8 @@ institution doesn't provide access to one of the articles below.
 * [***Delhasse et al. (2020)***](https://doi.org/10.5194/tc-14-957-2020), 'Brief communication: Evaluation of the near-surface climate in ERA5 over the Greenland Ice Sheet', The Cryosphere, 14, 957–965. (***Open Access***)
 
 * [***Cook et al. (2020)***](https://doi.org/10.5194/tc-14-309-2020), 'Glacier algae accelerate melt rates on the south-western Greenland Ice Sheet', The Cryosphere, 14, 309–330 (***Open Access***)
+
+Tedstone, A. J., Cook, J. M., Williamson, C. J., Hofer, S., McCutcheon, J., Irvine-Fynn, T., Gribbin, T., and Tranter, M.: Algal growth and weathering crust state drive variability in western Greenland Ice Sheet ice albedo, The Cryosphere, 14, 521–538, https://doi.org/10.5194/tc-14-521-2020, 2020. 
 
 
 ## My research in the Media
