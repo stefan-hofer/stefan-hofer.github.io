@@ -39,8 +39,6 @@ institution doesn't provide access to one of the articles below.
 
 * [***Cook et al. (2020)***](https://doi.org/10.5194/tc-14-309-2020), 'Glacier algae accelerate melt rates on the south-western Greenland Ice Sheet', The Cryosphere, 14, 309–330 (***Open Access***)
 
-Tedstone, A. J., Cook, J. M., Williamson, C. J., Hofer, S., McCutcheon, J., Irvine-Fynn, T., Gribbin, T., and Tranter, M.: Algal growth and weathering crust state drive variability in western Greenland Ice Sheet ice albedo, The Cryosphere, 14, 521–538, https://doi.org/10.5194/tc-14-521-2020, 2020. 
-
 
 ## My research in the Media
 
