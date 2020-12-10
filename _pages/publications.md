@@ -22,7 +22,9 @@ institution doesn't provide access to one of the articles below.
 ## Peer-reviewed Co-Author Articles
 
 **2020:**
-* [***Fettweis X. et al. (2020)***](https://tc.copernicus.org/articles/14/3935/2020/tc-14-3935-2020.html), 'GrSMBMIP: Intercomparison of the modelled 1980–2012 surface mass balance over the Greenland Ice sheet', The Cryosphere, 14, 3935-3953. (***Open Access**)
+* [***Fettweis X. et al. (2020)***](https://tc.copernicus.org/articles/14/3935/2020/tc-14-3935-2020.html), 'GrSMBMIP: Intercomparison of the modelled 1980–2012 surface mass balance over the Greenland Ice sheet', The Cryosphere, 14, 3935-3953. (***Open Access***)
+* [***Hahn L. C. et al. (2020)***](https://journals.ametsoc.org/view/journals/clim/33/10/jcli-d-19-0527.1.xml?tab_body=fulltext-display), 'Importance of Orography for Greenland Cloud and Melt Response to Atmospheric Blocking', Journal of Climate, 33(10), 4187-4206. (***Open Access***)
+
 
 
 ## Reports
