@@ -12,7 +12,7 @@ PDFs of the final articles where the publishing license allows. Otherwise, pleas
 institution doesn't provide access to one of the articles below.
 
 ## Peer-reviewed First Author Articles
-* [***Hofer S. et al. (2020)***](https://doi.org/10.1038/s41558-019-0507-8), ‘Greater Greenland Ice Sheet contribution to global sea level rise in CMIP6’, Nature Communications. [(***Accepted***)]
+* [***Hofer S. et al. (2020)***](https://doi.org/10.1038/s41558-019-0507-8), ‘Greater Greenland Ice Sheet contribution to global sea level rise in CMIP6’, Nature Communications. (***Accepted***)
 
 * [***Hofer S. et al. (2019)***](https://doi.org/10.1038/s41558-019-0507-8), ‘Cloud microphysics and circulation anomalies control differences in future Greenland Ice Sheet melt’, Nature Climate Change,9, 523–528. [(***Open Access shareable link***)](https://rdcu.be/cbYBd)
 
