@@ -15,6 +15,9 @@ institution doesn't provide with access to one of the articles below.
 
 * [***Hofer S. et al. (2019)***](https://doi.org/10.1038/s41558-019-0507-8), ‘Cloud microphysics and circulation anomalies control differences in future Greenland Ice Sheet melt’, Nature Climate Change,9, 523–528. [(***Open Access shareable link***)](https://rdcu.be/cbYBd)
 
+* [***Hofer S. et al. (2017)***](https://doi.org/10.1038/s41558-019-0507-8), ‘Decreasing Cloud Cover drives the recent mass loss on the Greenland Ice Sheet’, Science Advances , 3.6. (***Open Access***)
+
+Hofer, Stefan, et al. "Decreasing cloud cover drives the recent mass loss on the Greenland Ice Sheet." Science Advances 3.6 (2017): e1700584.
 
 ## Comments, blog posts, and other non-peer-reviewed articles
 
